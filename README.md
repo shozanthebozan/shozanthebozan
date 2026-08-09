@@ -17,7 +17,7 @@
 
 ## What I'm doing, able to do, and need
 
-*  I’m currently working on `8vert` (a CLI unit-converting python program) , `Searchy` (a program for searching for files on Unix-like operating systems, the CLI version uses `bash` and the GUI version uses `python` with `tkinter` and `subprocesses`) and `onNow` (a python GUI and CLI program to fetch latest weather for your location, and global news) .
+*  I’m currently working on `8vert` (a CLI unit-converting python program) , `Searchy` (a program for searching for files on Unix-like operating systems, the CLI version uses `bash` and the GUI version uses `python` with `tkinter` and `bash`) and `onNow` (a python GUI and CLI program to fetch latest weather for your location, and global news) .
 
 * I’m currently learning `C`
 
