@@ -1,5 +1,7 @@
 # G'day 👋👋
 
+<img src="image_scaled.jpg" align="right" width="300" /> 
+
 ### I'm a hobbyist from Melbourne trying to learn how to code, and I do that through these projects. Right now, I can do `python` with `tkinter` (I don't know how to use try loops lol), `C` with basic knowledge of pointers and basic code, really basic `c#`, `bash`, essentials of `git` and basic `markdown`.
 
 ## A bit about my pc
