@@ -1,9 +1,8 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 
-# G'day 👋👋
+<img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=50&duration=500&pause=2000&color=1CA780&width=435&height=100&lines=%3E+G'day+%F0%9F%91%8B%F0%9F%91%8B" alt="G'day 👋👋" height="500">
 
 ## About me
-
 <img src="hsv.gif" align="right" width="300" > 
 
 ### I'm a hobbyist from Melbourne trying to learn how to code, and I do that through these projects. Right now, I can do `python` with `tkinter` (I don't know how to use try loops lol) , `C` with basic knowledge of pointers and basic code, really basic `c#`, `bash`, essentials of `git` and basic `markdown`.
