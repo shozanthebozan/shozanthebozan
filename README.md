@@ -1,7 +1,5 @@
 # G'day 👋👋
 
-
-
 ## About me
 
 <img src="hsv.gif" align="right" width="300" > 
@@ -20,6 +18,8 @@
 *  I’m currently working on `8vert` (a CLI unit-converting python program) , `Searchy` (a program for searching for files on Unix-like operating systems, the CLI version uses `bash` and the GUI version uses `python` with `tkinter` and `bash`) and `onNow` (a python GUI and CLI program to fetch latest weather for your location, and global news) .
 
 * I’m currently learning `C` and `HTML`
+
+<img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" align="right" width="300">
 
 * I’m able to collaborate on simple projects, text me on my discord or my email they're linked under my GitHub bio
 
