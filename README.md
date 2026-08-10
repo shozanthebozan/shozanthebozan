@@ -19,10 +19,10 @@
 
 *  I’m currently working on `8vert` (a CLI unit-converting python program) , `Searchy` (a program for searching for files on Unix-like operating systems, the CLI version uses `bash` and the GUI version uses `python` with `tkinter` and `bash`) and `onNow` (a python GUI and CLI program to fetch latest weather for your location, and global news) .
 
-* I’m currently learning `C`
+* I’m currently learning `C` and `HTML`
 
 * I’m able to collaborate on simple projects, text me on my discord or my email they're linked under my GitHub bio
 
-* I’m looking for help with learning `C`, and making `8vert` more efficient I can't find a way to make use of functions to shorten code.
+* I’m looking for help with learning `C`,`HTML`, and making `8vert` more efficient, I can't find a way to make use of functions to shorten code in it.
 
 
