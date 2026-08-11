@@ -24,6 +24,6 @@
 
 * I’m able to collaborate on simple projects, text me on my discord or my email they're linked under my GitHub bio
 
-* I’m looking for help with learning `C`,`HTML`, and making `8vert` more efficient, I can't find a way to make use of functions to shorten code in it.
+* I’m looking for help with learning `C` & `HTML`
 
 
