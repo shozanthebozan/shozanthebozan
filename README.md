@@ -5,13 +5,13 @@
 ## About me
 <img src="hsv.gif" align="right" width="300" > 
 
-### I'm a hobbyist from Melbourne trying to learn how to code, and I do that through these projects. Right now, I can do `python` with `tkinter` (I don't know how to use try loops lol) , `C` with basic knowledge of pointers and basic code, really basic `c#`, `bash`, basic `html` ,essentials of `git` and basic `markdown`.
+**I'm a hobbyist from Melbourne trying to learn how to code, and I do that through these projects. Right now, I can do `python` with `tkinter` (I don't know how to use try loops lol) , `C` with basic knowledge of pointers and basic code, really basic `c#`, `bash`, basic `html` ,essentials of `git` and basic `markdown`.**
 
 
 ## A bit about my pc
 
-#### I use `Arch Linux` with the `KDE Plasma` desktop environment, which uses the `Wayland` display server. My system theme is Oxygen dark, with the Orbian-Aeroglass window decoration.
-#### My Computer is a Dell Optiplex 7080 SFF, with an Intel core i5 10500 vPRO, 16 gb of RAM in dual channel and sadly no GPU, which means I use Intel UHD integrated 630.
+ I use `Arch Linux` with the `KDE Plasma` desktop environment, which uses the `Wayland` display server. My system theme is Oxygen dark, with the Orbian-Aeroglass window decoration.
+ My Computer is a Dell Optiplex 7080 SFF, with an Intel core i5 10500 vPRO, 16 gb of RAM in dual channel and sadly no GPU, which means I use Intel UHD integrated 630.
 
 
 ## What I'm doing, able to do, and need
@@ -22,8 +22,13 @@
 
 * I’m currently learning `C` and `HTML`
 
-* I’m able to collaborate on simple projects, text me on my discord or my email they're linked under my GitHub bio
+* I’m able to collaborate on simple projects, contact me
 
 * I’m looking for help with learning `C` & `HTML`
 
+## Contact me
+
+<a href="https://discord.com/users/1109406163742769184"><img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="5%"></a>
+
+**My email is `kmoruihrdp@hotmail.com`**
 
