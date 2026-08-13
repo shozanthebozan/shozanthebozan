@@ -10,13 +10,6 @@
 
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
 
-
-<h2>A bit about my pc</h2>
-
- I use <code>Arch Linux</code> with the <code>KDE Plasma</code> desktop environment, which uses the <code>Wayland</code> display server. My system theme is Oxygen dark, with the Orbian-Aeroglass window decoration.
- My Computer is a Dell Optiplex 7080 SFF, with an Intel core i5 10500 vPRO, 16 gb of RAM in dual channel and sadly no GPU, which means I use Intel UHD integrated 630.
-
-
 <h2>What I'm doing, able to do, and need</h2>
 
 <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" align="right" width="300">
@@ -31,6 +24,15 @@
 <li>I’m looking for help with learning <code>C</code> & <code>HTML</code></li>
 
 </ul>
+
+
+
+
+<h2>A bit about my pc</h2>
+
+ I use <code>Arch Linux</code> with the <code>KDE Plasma</code> desktop environment, which uses the <code>Wayland</code> display server. My system theme is Oxygen dark, with the Orbian-Aeroglass window decoration.
+ My Computer is a Dell Optiplex 7080 SFF, with an Intel core i5 10500 vPRO, 16 gb of RAM in dual channel and sadly no GPU, which means I use Intel UHD integrated 630.
+
 
 <h2>Contact me</h2>
 
