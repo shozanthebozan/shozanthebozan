@@ -17,7 +17,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/213911110-aedbef38-a29f-4b6b-a65c-11608b4f75a5.gif" align="right" width="300">
 
 <ul>
-<li>I’m currently working on <code>8vert</code> (a CLI unit-converting python program) , <code>FunkyVLC</code> (A C program that plays your music with cvlc in the terminal-with a clean look and interface) , <code>Searchy</code> (a program for searching for files on Unix-like operating systems, the CLI version uses <code>bash</code> and the GUI version uses <code>python</code> with <code>tkinter</code> and <code>bash</code>) and <code>onNow</code> (a python GUI and CLI program to fetch latest weather for your location, and global news).</li>
 
 <li>I’m currently learning <code>C</code> and <code>HTML</code></li>
 
