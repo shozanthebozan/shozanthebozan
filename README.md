@@ -24,7 +24,7 @@
 
 <li>I’m looking for help with learning <code>C</code> & <code>HTML</code></li>
 
-</ul>
+</ul><br><br>
 
 
 
