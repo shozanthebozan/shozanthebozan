@@ -4,7 +4,7 @@
 
 <h2>About me</h2>
 <img src="hsv.gif" align="right" width="300" >
-<strong>I'm a hobbyist from Melbourne trying to learn how to code, and I do that through these projects.</strong><br><br><br><br>
+<strong>I'm a hobbyist from Melbourne trying to learn how to code, and I do that through these projects.</strong><br><br><br><br><br>
 
 
 
